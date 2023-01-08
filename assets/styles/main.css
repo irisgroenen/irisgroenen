@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Yeseva+One&display=swap');
+/*     font-family: 'Poppins', sans-serif;
+
+    font-family: 'Yeseva One', cursive;*/
+
+* { margin:0; padding:0; list-style: none; box-sizing: border-box; }
+a:link, a:visited, a:hover, a:active { text-decoration: none; color: inherit; }
+
+
+html { font-family: 'Poppins', sans-serif; }
+
+nav { min-height: 5vh; }
+header { min-height: 10vh; }
+main { min-height: 85vh; width: 90vw; max-width: 740px; margin: 0 auto; }
+
+/*  flex    */
+nav > ul, header  { display: flex; flex-wrap: wrap; justify-content: center; }
+header { align-items: center; }
+
+/*  nav     */
+nav { width: 96vw; position: sticky; top: 0; background-color: white; }
+nav > ul li { padding: 0.8em; }
+
+/*  lexicon */
+header#header_lexicon { flex-direction: column; width: 100vw; position: sticky; top: 6vh; background-color: white; border-bottom: 3px solid black; margin-bottom: 20px; }
+ul#subnav_lexicon { display: flex; font-family: 'Yeseva One', cursive; font-size: 1.4em; }
+ul#subnav_lexicon > li { padding: 0.2em; }
+
+h2 { background-image: linear-gradient(to right, rgba(156, 197, 233, 1), rgba(156, 197, 233, 0));  margin: 1.2em 0.2em 0.4em 0.2em; padding: 0.2em; font-family: 'Yeseva One', cursive; color: white; text-shadow: 2px 2px 3px rgba(22, 27, 32, 1);}
+article { padding: 0.4em; }
+
+@media
+(prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}  
