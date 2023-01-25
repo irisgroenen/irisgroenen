@@ -27,4 +27,4 @@ if (doctitle.includes('Lexicon')) {
     document.querySelector('#sidebar').innerHTML += subnav_lexicon
 }
 
-// create side bar menu
+// create collapsible

@@ -5,10 +5,10 @@ Aughra
 Retired selkie and clerk at the Admiralty. Likely not very retired. Possibly the aide of the Intel Admiral
 
 Barclay
-Merchant family in New Baron's Crest.
+Merchant family in New Baronscrest.
 
 Baron Quinten Laurenz
-The baron of New Baron's Crest. Hired Val, Ewart and Merle to hunt down the assassin that's after him.
+The baron of New Baronscrest. Hired Val, Ewart and Merle to hunt down the assassin that's after him.
 About 50 years old, grayish hair, ring beard and mustache. He has a bastard child. Mother, (human, not noble, engineer), died in Fellwallow at a collapsing tower accident. She never told him. The child's whereabouts are unknown.
 Admiral Blackburn is his ad interim successor.
 
@@ -58,7 +58,7 @@ Commander [placeholder]
 Ordered Merle to be followed (possibly back to Skimmer?), according to the Grey Dancer's captain. Probably significant power increase after the death of Blackburn - possibly rises to Vice Admiral. Title: Reeve-By-Night.
 
 Celoralin
-Minor noble family in New Baron's Crest. Lord Colin. Butler Edgar.
+Minor noble family in New Baronscrest. Lord Colin. Butler Edgar.
 
 Chauki (deceased)
 Shy human pigeon breeder who taught Merle how to read and write and who died in the fire.
@@ -146,7 +146,7 @@ Layla Redogo
 Owner of the Compass Rose. We know where she lives... Also, girlfriend of Tanith
 
 Leriandel Loreseeker (deceased)
-Sage and architect. Designed much of New Baron's Crest. Special interest: Paleolithic structures. Murdered by a faceless stalker who was directed by Otto Beauclerc. Had a group of adventurers looking into the shrine of Mammon on behalf of Admiral Blackburn and has sent one to Frog Island to locate a Magic University there on behalf of Boris Loreand.
+Sage and architect. Designed much of New Baronscrest. Special interest: Paleolithic structures. Murdered by a faceless stalker who was directed by Otto Beauclerc. Had a group of adventurers looking into the shrine of Mammon on behalf of Admiral Blackburn and has sent one to Frog Island to locate a Magic University there on behalf of Boris Loreand.
 
 Lionel
 Arsonist. Bought the alchemist fire at Dawra.
@@ -204,7 +204,7 @@ Skimmer
 See Crimson butterfly ;_;
 
 Stregulanti
-An empoverished aristocratic family from New Baron's Crest. 
+An empoverished aristocratic family from New Baronscrest. 
 
 Tanith
 Employee at the Compass Rose. More involved with the Blue Sails than Merle really wants to know about. Member of the Nightrunners, her tag is a puffed up pufferfish and her nickname is Fugu. Girlfriend of Laila Redogo

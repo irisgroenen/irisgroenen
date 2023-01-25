@@ -5,7 +5,7 @@
 
 * { margin:0; padding:0; list-style: none; box-sizing: border-box; }
 a:link, a:visited, a:hover, a:active { text-decoration: none; color: inherit; }
-
+p { padding-bottom: 0.4em; }
 
 html { font-family: 'Poppins', sans-serif; }
 
@@ -29,6 +29,29 @@ ul#subnav_lexicon > li { padding: 0.2em; }
 h2 { background-image: linear-gradient(to right, rgba(156, 197, 233, 1), rgba(156, 197, 233, 0));  margin: 1.2em 0.2em 0.4em 0.2em; padding: 0.2em; font-family: 'Yeseva One', cursive; color: white; text-shadow: 2px 2px 3px rgba(22, 27, 32, 1);}
 article { padding: 0.4em; }
 
+/*  characters  */
+/*main#characters > section { display: flex; width: 100%; border-bottom: 1px solid grey; margin: 0.2em; }
+main#characters article { padding-left: 1em; }
+main#characters figure {  }
+main#characters img { max-width:200px; }*/
+
+main#characters { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 0.4em; }
+main#characters figure { width: 100%; }
+main#characters img { width: 360px; height:200px; object-fit: cover; }
+main#characters img#merle-portrait { object-position: 0 -32px; }
+
+
+/*  locations */
+main#locations > section { padding-bottom: 1em; }
+main#locations > section > article > article { padding-left: 1em; }
+
+/*  organisations */
+main#organisations > section > article ul li { padding: 0.4em 0.8em; list-style-type: circle; }
+main#organisations > section > article ul li > ul li > ul li { padding: 0.4em 0.8em; list-style-type:disc; }
+main#organisations > span.bg-blue { background-color: rgba(0, 135, 253, 0.4);}
+
+/*  classes */
+.lt { text-decoration: line-through; }
 @media
 (prefers-reduced-motion: no-preference) {
   html {
